@@ -34,4 +34,4 @@ Pull request 생성 후, 깃허브는 브랜치 간 충돌이 있는지 확인�
 </br></br>
 
 # 2주차 과제 : Pull Request 페이지의 링크
-https://github.com/PizzaPark0/2025-1-Beginner-Study/pull/2
+https://github.com/PizzaPark0/2025-1-Beginner-Study/pull/3
